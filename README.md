@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+-# Wolfbrand Marketing
+## Digital Marketing Solutions
 
-You can use the [editor on GitHub](https://github.com/MorrisseySean/wolfbrandmarketing/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Want to get your business ahead on the online marketplace? From making sure you show up on your favorite search engine, to well constructed social media posts and adverts, it can be a struggle to keep up with the day to day trends of the Internet. That's where Wolfbrand Marketing can help you.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
