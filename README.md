@@ -1,4 +1,7 @@
--# Wolfbrand Marketing
+<title>
+  {{ Wolfbrand Marketing }}
+</title>
+
 ## Digital Marketing Solutions
 
 Want to get your business ahead on the online marketplace? From making sure you show up on your favorite search engine, to well constructed social media posts and adverts, it can be a struggle to keep up with the day to day trends of the Internet. That's where Wolfbrand Marketing can help you.
